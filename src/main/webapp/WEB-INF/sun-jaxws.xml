@@ -1,0 +1,7 @@
+<endpoints xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime"
+           version="2.0">
+    <endpoint
+        name="ConversorService"
+        implementation="cl.iplacex.ConversorImp"
+        url-pattern="/conversor" />
+</endpoints>
